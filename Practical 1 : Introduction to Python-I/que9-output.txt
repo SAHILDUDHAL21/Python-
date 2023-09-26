@@ -1,0 +1,7 @@
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que9.py
+sin 2 = 0.9092974268256817
+cos 2 = -0.4161468365471424
+log 2 = 0.6931471805599453
+           

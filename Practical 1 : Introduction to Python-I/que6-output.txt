@@ -1,0 +1,4 @@
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que6.py
+15.700000000000001
+

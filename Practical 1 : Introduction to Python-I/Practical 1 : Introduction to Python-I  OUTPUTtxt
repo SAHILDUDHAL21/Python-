@@ -1,0 +1,100 @@
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que1.py
+Hello,World !
+3
+5
+6
+2.3333333333333335
+2
+The value of 3+4 is 7 .
+                                                                                
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que2.py
+7.4
+4.0
+8
+11
+27
+                                                                                
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que2.py
+7.4
+4.0
+8
+4.527692569068709
+11
+27
+                                                                                
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ 
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ 
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que3.py
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que4.py
+7
+17
+-5.8
+2
+32
+57
+7
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que5.py
+5
+10
+86
+33
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ 
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que6.py
+15.700000000000001
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ 
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que7.py
+325.2691193458119
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ 
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que8.py
+Square :: 9
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ 
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que9.py
+sin 2 = 0.9092974268256817
+cos 2 = -0.4161468365471424
+log 2 = 0.6931471805599453
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que10.py
+Sum:: 6
+Product:: 6
+Sum:: 15
+Product:: 96
+                                                                               
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ 
+
+
+

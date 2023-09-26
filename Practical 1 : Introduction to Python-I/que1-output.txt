@@ -1,0 +1,9 @@
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que1.py
+Hello,World !
+3
+5
+6
+2.3333333333333335
+2
+The value of 3+4 is 7 .

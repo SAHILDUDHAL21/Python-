@@ -1,0 +1,8 @@
+                                                                              
+┌──(sahil㉿kali-dell-inspiron-1545)-[~/SAHIL PROGRAMS/Python/Practical 1 : Introduction to Python-I]
+└─$ python3 que10.py
+Sum:: 6
+Product:: 6
+Sum:: 15
+Product:: 96
+        
